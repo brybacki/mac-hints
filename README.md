@@ -2,20 +2,21 @@
 
 Opinionated list of software to install first day.
 
-After logging in:
+## After logging in:
 
 1. setup apple id 
 2. full disk encryption
+3. Enable tap to click in preferences
 
-install:
+## install:
 3. git
 4. jdk 8
 5. vagrant
 
-mac-specific installs:
+## mac-specific installs:
 6. karabiner - to easily map keys, to create keyboard profiles for mac keyboard for external keyboard
 7. brew - the package manager!
-8. iterm2
+8. iterm2.   
 brew cask install iterm2
 
 9. magicprefs

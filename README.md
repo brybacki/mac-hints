@@ -19,8 +19,8 @@ Opinionated list of software to install first day.
 8. iterm2.   
 brew cask install iterm2
 
-9. magicprefs
-10 hyperswitch - ALT + ~
+9. rectangle 
+10. hyperswitch - ALT + ~
 11. easy-move-resize - to be able to move and resize windows easily, almost as easy as in ubuntu - a luxury tool (very small high res retina windows borders are almost impossible to grab and resize the window)
 12. Alfred?
 13. zsh - oh-my-zsh 
